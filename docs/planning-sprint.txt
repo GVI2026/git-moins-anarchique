@@ -3,11 +3,11 @@ Planning du sprint 3
 
 Lundi
 - Finaliser la page d'accueil
-- Préparer les tests de navigation
+- Préparer les tests de navigation mobile
 
 Mardi
 - Corriger les bugs de formulaire
-- Relire la documentation utilisateur
+- Mettre à jour la documentation utilisateur
 
 Mercredi
-- Démonstration interne
+- Démonstration client avancée
