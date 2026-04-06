@@ -6,8 +6,9 @@ Ces exercices se font **uniquement en local** après clonage du dépôt.
 
 - La branche `main` ne sert **pas** à ces exercices.
 - Les conflits à résoudre sont déjà préparés sur d'autres branches.
+- Les fichiers de travail des exercices sont présents sur les **branches d'exercice**.
 - Vous devez travailler sur une **branche personnelle locale** créée à partir de la branche d'exercice demandée.
-- Chaque exercice doit être résolu une première fois avec `merge`, puis une autre fois avec `rebase`.
+- Cette série contient un exercice à résoudre avec `merge` et un autre à résoudre avec `rebase`.
 
 ## Vue d'ensemble des branches
 
