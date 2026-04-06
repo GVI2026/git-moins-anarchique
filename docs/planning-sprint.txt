@@ -1,0 +1,13 @@
+Planning du sprint 3
+====================
+
+Lundi
+- Finaliser la page d'accueil
+- Préparer les tests de navigation
+
+Mardi
+- Corriger les bugs de formulaire
+- Relire la documentation utilisateur
+
+Mercredi
+- Démonstration interne

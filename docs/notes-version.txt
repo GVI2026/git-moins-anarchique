@@ -1,0 +1,10 @@
+Version 1.2.0
+=============
+
+Résumé de version
+- Stabilisation du module d'inscription
+- Mise à jour du message d'accueil
+- Préparation de la démonstration client
+
+Décision produit
+Le déploiement pilote reste prévu vendredi matin.
