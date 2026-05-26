@@ -1,0 +1,3 @@
+20-05-2026 :
+- Cadrage de la feature de droit à l'oubli
+- Préparation de la demo cliente
