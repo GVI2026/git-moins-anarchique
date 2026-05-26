@@ -1,3 +1,4 @@
 20-05-2026 :
 - Cadrage de la feature de droit à l'oubli
-- Préparation de la demo cliente
+- Préparation de la demo cliente26-05-2026:
+- Envoi de la demonstration sur le serveur partagé
