@@ -11,10 +11,14 @@ Ceci est la première ligne (Kevin A.)
 
 Troisième ligne (Léo C.)
 
-Sixième ligne (Maxime C.)
+Quatrième ligne (Adélyza D.)
+
+:3 (Maxime C.)
 
 L (Lucas L.)
+
 Ligne Hugo (Hugo B.)
+
 Je respecte l'organisation, à contrecoeur (Quentin S.)
 
 Test ligne (Remi D.)
