@@ -11,3 +11,5 @@ Ceci est la première ligne (Kevin A.)
 Nouvelle ligne (Thomas V.)
 
 Sixième ligne (Maxime C.)
+
+Je respecte l'organisation, à contrecoeur (Quentin S.)
