@@ -11,3 +11,10 @@ Ceci est la première ligne (Kevin A.)
 
 Sixième ligne (Maxime C.)
 Je respecte l'organisation, à contrecoeur (Quentin S.)
+
+
+
+
+
+
+J'essaye de merge, mais c'est compliqué (Justin)
