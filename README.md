@@ -12,10 +12,11 @@ Nouvelle ligne (Thomas V.)
 
 Troisième ligne (Léo C.)
 Quatrième ligne (Adélyza D.)
-Cinquième ligne (Gaetan LdG.)
 Cinquième ligne (Corentin R.)
 
-Sixième ligne (Maxime C.)
+Sixieme ligne (Gaetan LdG.)
+
+Septieme ligne (Maxime C.)
 
 L (Lucas L.)
 Ligne Hugo (Hugo B.)
