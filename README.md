@@ -12,4 +12,6 @@ Nouvelle ligne (Thomas V.)
 
 Sixième ligne (Maxime C.)
 
+L (Lucas L.)
+
 Je respecte l'organisation, à contrecoeur (Quentin S.)
