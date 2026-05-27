@@ -12,5 +12,5 @@ Troisième ligne (Léo C.)
 Sixième ligne (Maxime C.)
 
 L (Lucas L.)
-
+Ligne Hugo (Hugo B.)
 Je respecte l'organisation, à contrecoeur (Quentin S.)
