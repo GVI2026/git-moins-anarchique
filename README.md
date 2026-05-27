@@ -10,9 +10,7 @@ Vous avez 20 min.
 Ceci est la première ligne (Kevin A.)
 Troisième ligne (Léo C.)
 Quatrième ligne (Adélyza D.)
-Cinquième ligne
-
-Coucou (Gaetan LdG.)
+Cinquième ligne (Gaetan LdG.)
 
 Sixième ligne (Maxime C.)
 
