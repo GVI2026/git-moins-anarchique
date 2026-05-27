@@ -8,6 +8,9 @@ Lundi
 Mardi
 - Corriger les bugs critiques du formulaire
 - Relire la documentation utilisateur
+- Préparer les tests de navigation mobile
+- Corriger les bugs de formulaire
+- Mettre à jour la documentation utilisateur
 
 Mercredi
-- Démonstration interne
+- Démonstration client avancée
